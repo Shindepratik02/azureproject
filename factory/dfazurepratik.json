@@ -1,0 +1,9 @@
+{
+	"name": "dfazurepratik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa04ee9c-5cec-42da-b91e-fb867c21bfbb",
+		"tenantId": "3840216e-fe61-45a8-87a2-bd06fe80c67e"
+	}
+}
