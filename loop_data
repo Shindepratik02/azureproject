@@ -3,30 +3,30 @@
     "table": "DimUser",
     "schema": "dbo",
     "cdc_col": "updated_at",
-    "backfill_data": ""
+    "backfill_date": ""
   },
   {
     "table": "DimTrack",
     "schema": "dbo",
     "cdc_col": "updated_at",
-    "backfill_data": ""
+    "backfill_date": ""
   },
   {
     "table": "DimDate",
     "schema": "dbo",
     "cdc_col": "updated_at",
-    "backfill_data": ""
+    "backfill_date": ""
   },
   {
     "table": "DimArtist",
     "schema": "dbo",
     "cdc_col": "updated_at",
-    "backfill_data": ""
+    "backfill_date": ""
   },
   {
-    "table": "FactStram",
+    "table": "FactStream",
     "schema": "dbo",
     "cdc_col": "updated_at",
-    "backfill_data": ""
+    "backfill_date": ""
   }
 ]
