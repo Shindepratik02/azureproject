@@ -1,0 +1,32 @@
+[
+  {
+    "table": "DimUser",
+    "schema": "dbo",
+    "cdc_col": "updated_at",
+    "backfill_data": ""
+  },
+  {
+    "table": "DimTrack",
+    "schema": "dbo",
+    "cdc_col": "updated_at",
+    "backfill_data": ""
+  },
+  {
+    "table": "DimDate",
+    "schema": "dbo",
+    "cdc_col": "updated_at",
+    "backfill_data": ""
+  },
+  {
+    "table": "DimArtist",
+    "schema": "dbo",
+    "cdc_col": "updated_at",
+    "backfill_data": ""
+  },
+  {
+    "table": "FactStram",
+    "schema": "dbo",
+    "cdc_col": "updated_at",
+    "backfill_data": ""
+  }
+]
