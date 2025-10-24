@@ -14,7 +14,7 @@
   {
     "table": "DimDate",
     "schema": "dbo",
-    "cdc_col": "updated_at",
+    "cdc_col": "date",
     "backfill_date": ""
   },
   {
@@ -26,7 +26,7 @@
   {
     "table": "FactStream",
     "schema": "dbo",
-    "cdc_col": "updated_at",
+    "cdc_col": "stream_timestamp",
     "backfill_date": ""
   }
 ]
